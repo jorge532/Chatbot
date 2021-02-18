@@ -1,6 +1,6 @@
 # Chatbot Game
 
-[Link to the page](https://housseynou.github.io/Chatbot/.)
+[Link to the page](https://jorge532.github.io/Chatbot/.)
 
 ## The mission
 
